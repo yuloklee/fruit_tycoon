@@ -1,4 +1,4 @@
-# fruit_tycoon
+# Fruit Tycoon
 ### An Idle game where you click on fruits to gain money. 
 Built with python using the simplegui module.
 
